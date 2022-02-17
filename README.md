@@ -298,4 +298,4 @@ drive.mount('/content/gdrive')
 
 ------
 
-[colab - YOLOv5 on Custom Data](https://colab.research.google.com/drive/1FWzGZPrrx5Gm-eCOxnoG30ueGcgtHNO3?usp=sharing)
+[YOLOv5 on Custom Data (Colab)](https://colab.research.google.com/drive/1FWzGZPrrx5Gm-eCOxnoG30ueGcgtHNO3?usp=sharing)
