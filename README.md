@@ -62,8 +62,6 @@ Classification 과 Localization 이 동시에 수행되는 것을 의미합니�
 
 먼저 데이타셋이 필요하지만, ***단기간에 데이타셋을 만드는 것은 어렵기 때문에*** [Roboflow](https://roboflow.com/) 에서 데이타셋을 구해서 모델을 훈련하도록 하겠습니다. 
 
-![img](https://blog.kakaocdn.net/dn/JahdO/btrtmWaB1ME/B9rQPK4rTnOekEzTuCSjO0/img.gif)
-
 저는 마스크 착용 데이타 세트를 활용하도록 하겠습니다. 이 이미지 데이타 세트는 대만 Eden Social Welfare Foundation의 Cheng Hsun Teng이 수집했다고 설명되어 있네요.
 
 ![img](https://blog.kakaocdn.net/dn/t7eHg/btrtnDotYye/Wi6RlATLcGl3bmkdZemxsK/img.png)
@@ -300,4 +298,4 @@ drive.mount('/content/gdrive')
 
 ------
 
-[[ Colab \] - YOLOv5 on Custom Data ](https://colab.research.google.com/drive/1FWzGZPrrx5Gm-eCOxnoG30ueGcgtHNO3?usp=sharing)
+[Colab - YOLOv5 on Custom Data ](https://colab.research.google.com/drive/1FWzGZPrrx5Gm-eCOxnoG30ueGcgtHNO3?usp=sharing)
